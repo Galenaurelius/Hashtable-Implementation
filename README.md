@@ -1,2 +1,2 @@
 # Hashtable-Implementation
-Use of a self-designed hashtable to solve a word puzzle
+Use of a self-implemented hashtable to solve a word puzzle.
